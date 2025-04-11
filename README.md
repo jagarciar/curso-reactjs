@@ -8,6 +8,14 @@ Los componentes tienen propiedades (**props**), que son sus **atributos** de con
 
 Además, React tiene un **flujo de datos unidireccional**. Es decir, los datos se transmiten en una dirección desde los **componentes superiores** hasta los inferiores. Los **componentes inferiores** procesan los datos, cambian su estado y envían los eventos hacia los componentes superiores que los actualizan.
 
+## Vite
+
+Vite es una herramienta para **Frontend**, creada por **Evan You**, mismo creador de Vuejs, esta herramienta nos permitirá crear aplicaciones de **Javascript** usando algún framework o libreria como **ReactJs**, **Vuejs**, **Angular** ya sea con algún framework especifico o ya sea Vanillajs.
+
+## Sobre el curso
+
+En esta oportunidad quiero documentar el curso que he estado realizado de ReactJS 
+
 [1. Creación de un proyecto](/primer-proyecto-react/README.md)
 [2. Componentes funcionales](/segundo-proyecto-react/README.md)
 [3. Componentes de clase](/tercer-proyecto-react/README.md)
