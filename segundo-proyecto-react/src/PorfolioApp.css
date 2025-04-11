@@ -1,0 +1,7 @@
+.rojo{
+    color:black;
+}
+
+div > p {
+    background-color: azure;
+}
