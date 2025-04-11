@@ -16,13 +16,13 @@ Vite es una herramienta para **Frontend**, creada por **Evan You**, mismo creado
 
 En esta oportunidad quiero documentar el curso que he estado realizado de ReactJS 
 
-[1. Creación de un proyecto](/primer-proyecto-react/README.md)
-[2. Componentes funcionales](/segundo-proyecto-react/README.md)
-[3. Componentes de clase](/tercer-proyecto-react/README.md)
-[4. JSX](/cuarto-proyecto-react/README.md)
-[5. Estilos](/quinto-proyecto-react/README.md)
-[6. Props](/sexto-proyecto-react/README.md)
-[7. Eventos](/septimo-proyecto-react/README.md)
-[8. Ciclo de vida de un componente](/octavo-proyecto-react/README.md)
-[9. Listas & Arreglos](/noveno-proyecto-react/README.md)
-[10. Formularios](/decimo-proyecto-react/README.md)
+[1. Creación de un proyecto](/primer-proyecto-react/README.md) </br>
+[2. Componentes funcionales](/segundo-proyecto-react/README.md) </br>
+[3. Componentes de clase](/tercer-proyecto-react/README.md) </br>
+[4. JSX](/cuarto-proyecto-react/README.md) </br>
+[5. Estilos](/quinto-proyecto-react/README.md) </br>
+[6. Props](/sexto-proyecto-react/README.md) </br>
+[7. Eventos](/septimo-proyecto-react/README.md) </br>
+[8. Ciclo de vida de un componente](/octavo-proyecto-react/README.md) </br>
+[9. Listas & Arreglos](/noveno-proyecto-react/README.md) </br>
+[10. Formularios](/decimo-proyecto-react/README.md)</br>
